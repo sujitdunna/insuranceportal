@@ -2,7 +2,6 @@ D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\bin\Debug\netcor
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\bin\Debug\netcoreapp2.2\InsuranceClientPortal.runtimeconfig.json
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\bin\Debug\netcoreapp2.2\InsuranceClientPortal.runtimeconfig.dev.json
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\bin\Debug\netcoreapp2.2\InsuranceClientPortal.dll
-D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.csprojAssemblyReference.cache
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.csproj.CoreCompileInputs.cache
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.RazorAssemblyInfo.cache
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.RazorAssemblyInfo.cs
