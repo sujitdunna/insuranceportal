@@ -10,6 +10,11 @@ namespace InsuranceClientPortal.Models
     public class CustomerViewModel
     {
         public string Name { get; set; }
+
+        [Required]
+        [DataType(DataType.EmailAddress)]
+        public string Email { get; set; }
+
         [DataType(DataType.Date)]
         [Display(Name="Application Date")]
         public DateTime AppDate { get; set; }

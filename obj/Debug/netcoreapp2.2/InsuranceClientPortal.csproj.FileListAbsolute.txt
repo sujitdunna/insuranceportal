@@ -28,3 +28,4 @@ D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcor
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.pdb
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.csproj.CopyComplete
 D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+D:\Sujit\HTML\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.csprojAssemblyReference.cache
